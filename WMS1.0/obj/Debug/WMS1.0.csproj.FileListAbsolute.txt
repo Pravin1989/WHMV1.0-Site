@@ -1,0 +1,8 @@
+F:\Work\WMS1.0\Site1.0\WMS1.0\WMS1.0\bin\WMS1.0.dll
+F:\Work\WMS1.0\Site1.0\WMS1.0\WMS1.0\bin\WMS1.0.pdb
+F:\Work\WMS1.0\Site1.0\WMS1.0\WMS1.0\obj\Debug\ResolveAssemblyReference.cache
+F:\Work\WMS1.0\Site1.0\WMS1.0\WMS1.0\obj\Debug\WMS1.0.dll
+F:\Work\WMS1.0\Site1.0\WMS1.0\WMS1.0\obj\Debug\WMS1.0.pdb
+F:\Work\WMS1.0\Site1.0\WMS1.0\WMS1.0\bin\Microsoft.ApplicationBlocks.Data.dll
+F:\Work\WMS1.0\Site1.0\WMS1.0\WMS1.0\bin\Microsoft.ApplicationBlocks.Data.pdb
+F:\Work\WMS1.0\Site1.0\WMS1.0\WMS1.0\bin\Microsoft.ApplicationBlocks.Data.xml
